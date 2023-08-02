@@ -1,0 +1,85 @@
+
+/*
+BaliHani
+*/
+.helo{
+    Font-family: Montserrat;
+    Font-style: Light Italic;
+    Font-size: 38px;
+    
+    Align: Left;
+    align: Center;
+    Letter-spacing: -2%;
+  color:  #606060;
+  
+}
+.bgcolor{
+    background-color: rgba(239, 121, 12, 1) !important;
+    border: none;
+
+}
+.text-color{
+   color:  rgba(239, 121, 12, 1);
+   border-color:  rgba(239, 121, 12, 1);;
+}
+
+    /*date*/
+    .bgc{
+      background: rgba(239, 121, 12, 0.08);
+      width: 800px;
+      border-radius: 15px;
+    
+      
+    }
+/*4 raisons*/ 
+
+   .d{
+    font-family: Montserrat;
+font-size: 48px;
+font-weight: 500;
+line-height: 72px;
+letter-spacing: -0.02em;
+height: 72px;
+width: 843px;
+left: 0px;
+top: 0px;
+border-radius: undefinedpx;
+color: rgba(239, 121, 12, 1);
+
+
+
+   }
+   /*hand section*/
+   .bgcl{
+    background-color: rgba(239, 121, 12, 0.08);
+
+   }
+   /*ce client section*/
+   .beg{
+    font-family: Montserrat;
+font-size: 48px;
+font-weight: 500;
+line-height: 50px;
+letter-spacing: -0.02em;
+text-align: center;
+color: rgba(239, 121, 12, 1);
+
+
+   }
+   /*jalal rachid section*/
+   .bground{
+    background: rgba(239, 121, 12, 0.05);
+
+   }
+   /*heart section*/
+   .text-space{
+    font-family: Montserrat;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+   }
+    /*phone section*/
+  
